@@ -1,0 +1,4 @@
+#忽略demo目录下所有的文件
+demo/
+#忽略文件
+demo.html
